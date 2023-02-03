@@ -1,6 +1,5 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Spectral by
+Rohit Kumar
 
 
 A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
@@ -27,8 +26,7 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+Rohit Kumar
 
 
 Credits:
